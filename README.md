@@ -1,4 +1,4 @@
-<img width=100% bottom=50px src="https://github.com/giufaria/giufaria/assets/114711760/a84e854a-b4d7-40d5-aa3e-a945aba647c6"/>
+<img width=100% bottom=50px src="https://github.com/MyListon/MyListon/assets/42695137/0412c5eb-2693-4aea-845c-5670fbb45550"/>
 <br>
 <br>
 <br>
@@ -16,8 +16,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyListon&layout=compact&langs_count=16&theme=radical"/>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MyListon&bg_color=000000&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Ashutosh's github activity graph](https://github.com/MyListon/MyListon/assets/42695137/79d93023-d581-449c-a9e1-f174762d5bfa)
 
+
+<br>
+<br>
+<br>
 
 ## My Skills
 
@@ -65,10 +69,23 @@
   <br>
   <br>
 
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fgiufaria&s=50&c=72039b&bg=00000000&no=2&ff=digi&tb=Visitantes%3A+&ta=" alt="visits" /></p> 
+ <div align="center">
   
 <br>
 <br>
 <br>
+<br>
+
+<p align="centre"><b>Visitors Count</b></p> 
+  
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FMyListon&s=40&c=7e0ba8&bg=00000000&no=2&ff=digi&tb=&ta=" /></p> 
+<br>
+</div>
+
+<br>
+<br>
+<br>
+
+<img width=100% bottom=50px src="https://github.com/MyListon/MyListon/assets/42695137/029f1df1-5c92-43e4-b1c4-93e606736ca2"/>
   
 </div>
