@@ -1,4 +1,10 @@
-### Oi!!!! Eu sou Myriam Liston
+<img width=100% bottom=50px src="https://github.com/giufaria/giufaria/assets/114711760/a84e854a-b4d7-40d5-aa3e-a945aba647c6"/>
+<br>
+<br>
+<br>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B571F7&random=false&width=435&lines=Hello!!!+My+name+is+Myriam;I'm+fullstack+developer" alt="Typing SVG" /></a>
+
 
 ##
 
@@ -7,6 +13,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MyListon&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyListon&layout=compact&langs_count=16&theme=radical"/>
 </div>
+
+![Ashutosh's github activity graph](https://github.com/giufaria/giufaria/assets/114711760/dee1e5e5-22fd-4def-b4f0-c4c07a13d249)
+
 
 ## My Skills
 
@@ -50,5 +59,14 @@
   <div> 
   <a href="https://instagram.com/myriamliston" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/myriam-liston-ferreira-perdiza-280a6a140/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+  <br>
+  <br>
+
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fgiufaria&s=50&c=72039b&bg=00000000&no=2&ff=digi&tb=Visitantes%3A+&ta=" alt="visits" /></p> 
+  
+<br>
+<br>
+<br>
   
 </div>
