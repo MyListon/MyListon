@@ -16,8 +16,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyListon&layout=compact&langs_count=16&theme=radical"/>
 </div>
 
-![Ashutosh's github activity graph](https://github.com/MyListon/MyListon/assets/42695137/79d93023-d581-449c-a9e1-f174762d5bfa)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MyListon)](https://github.com/MyListon/github-readme-activity-graph)
 
 <br>
 <br>
