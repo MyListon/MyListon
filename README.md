@@ -8,7 +8,7 @@
 <br>
 <br>
 
-## 👨‍💻 Sobre
+## 👨‍💻 About Me
 
 # Hello! I'm Myriam Liston ✨
 
