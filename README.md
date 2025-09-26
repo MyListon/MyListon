@@ -76,7 +76,10 @@
 
 <p align="centre"><b>Visitors Count</b></p> 
   
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FMyListon&s=40&c=7e0ba8&bg=00000000&no=2&ff=digi&tb=&ta=" /></p> 
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=MyListon&label=Visitas&color=blueviolet&style=for-the-badge" alt="Contador de Visualizações" /> 
+</p>
+ 
 <br>
 </div>
 
