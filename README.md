@@ -10,8 +10,6 @@
 
 ## 👨‍💻 About Me
 
-# Hello! I'm Myriam Liston ✨
-
 👋 I hold a degree in Information Technology Management from UNICEP and I'm a professional with experience in **software development and microservices architecture**.
 
 My approach is centered on **collaboration and transparency**. I value active listening and believe in the importance of sharing feedback, knowledge, and work practices to foster clear, friendly, and engaging environments.
